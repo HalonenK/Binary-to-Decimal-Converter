@@ -26,7 +26,7 @@ int main(void) {
 
         printf("Anna binaariluku: ");
         scanf("%s", &binary);
-        bin_to_int(bits, binary);
+        bin_to_dec(bits, binary);
     }
     return 0;
 }
